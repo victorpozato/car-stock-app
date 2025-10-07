@@ -7,7 +7,7 @@ Aplicativo mobile para gestão de estoque de veículos em lojas.
 - Login de usuários
 - Visualização de veículos em formato de card
 - Tela detalhada com informações completas do veículo
-- Sistema de permissões por Usuarios
+- Sistema de permissões por Usuarios....
 
 ## Tecnologias
 

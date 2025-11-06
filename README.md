@@ -18,4 +18,10 @@ Aplicativo mobile para gestão de estoque de veículos em lojas.
 
 Projeto acadêmico desenvolvido por Victor e .
 
-https://1drv.ms/w/c/c7812f9265c3ff5b/EdJdUwvFXaRAibXaeUQQChkBpVGC69zrCoV-HwSxngDQdg?e=HLQFX1
+
+slides dia 6
+
+https://1drv.ms/p/c/c7812f9265c3ff5b/ER_NRggN5EVNg6ioN4M30YoBelipAgjwR6i6JZJ3h_Mi1Q
+
+bigdata
+https://1drv.ms/p/c/c7812f9265c3ff5b/EXhpsGwp9YtAoI1Jylr7nfwBYZTPq0ccirDGQ00-z5tuSQ
